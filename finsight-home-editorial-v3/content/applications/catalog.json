@@ -1,0 +1,88 @@
+{
+  "reports": [
+    {
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "risk": {
+        "markdown": "/content/applications/2026-10-26-risk.md",
+        "count": 10
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-10-26-opportunity.md",
+        "count": 1
+      }
+    },
+    {
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "risk": {
+        "markdown": "/content/applications/2026-10-19-risk.md",
+        "count": 10
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-10-19-opportunity.md",
+        "count": 4
+      }
+    },
+    {
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "risk": {
+        "markdown": "/content/applications/2026-10-12-risk.md",
+        "count": 9
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-10-12-opportunity.md",
+        "count": 3
+      }
+    },
+    {
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "risk": {
+        "markdown": "/content/applications/2026-09-21-risk.md",
+        "count": 8
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-09-21-opportunity.md",
+        "count": 3
+      }
+    },
+    {
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "risk": {
+        "markdown": "/content/applications/2026-09-14-risk.md",
+        "count": 9
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-09-14-opportunity.md",
+        "count": 3
+      }
+    },
+    {
+      "start": "2026-09-07",
+      "end": "2026-09-13",
+      "risk": {
+        "markdown": "/content/applications/2026-09-07-risk.md",
+        "count": 6
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-09-07-opportunity.md",
+        "count": 3
+      }
+    },
+    {
+      "start": "2026-08-31",
+      "end": "2026-09-06",
+      "risk": {
+        "markdown": "/content/applications/2026-08-31-risk.md",
+        "count": 9
+      },
+      "opportunity": {
+        "markdown": "/content/applications/2026-08-31-opportunity.md",
+        "count": 2
+      }
+    }
+  ]
+}
